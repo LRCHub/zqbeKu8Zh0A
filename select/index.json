@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アオハル進化論",
+  "base_artist": "水瀬 凪",
+  "createdAt": "2026-02-20T10:25:28.036332Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アオハル進化論",
+      "artist": "水瀬 凪",
+      "has_synced": false,
+      "path": "select/pl_01_アオハル進化論_水瀬_凪.txt"
+    }
+  ]
+}
